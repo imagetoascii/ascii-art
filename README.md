@@ -1,2 +1,2 @@
-# ascii-art
+# Ascii Art
 To remember the old golden age of internet, i created a Image to Ascii Picture  [Image to ASCII Picture Generator](https://imagetoascii.github.io/) tool that simply conver any image in .jpeg, .png or .webp images to text art os in simple terms Convert Image to Notepad Art. And trying to collect many arts that i love to play with here in this repo. So if you want to convert your images to Acsii Arts visit the [tool](https://imagetoascii.github.io/) and enjoy.
